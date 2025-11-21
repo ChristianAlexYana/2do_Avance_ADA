@@ -29,7 +29,7 @@ MainWindow::~MainWindow() {
 }
 
 void MainWindow::setupUI() {
-    setWindowTitle("Buscador de Patrones - Algoritmos de Busqueda v5.0");
+    setWindowTitle("Buscador de Patrones - Algoritmos de Busqueda");
     setMinimumSize(950, 800);
 
     QWidget *centralWidget = new QWidget(this);
